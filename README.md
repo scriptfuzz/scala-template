@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/j-diaz/lloyd.svg?branch=dev)](https://travis-ci.org/j-diaz/lloyd)
+
 Lloyd
 ========
 Your personal assistant, guidance counselor, web guru, friend and oh, yeah.. twitter chat bot. - Talk about high expectations
