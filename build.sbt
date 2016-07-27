@@ -6,7 +6,7 @@ lazy val commonSettings = Seq(
 lazy val root = (project in file("."))
    .settings(commonSettings)
   .settings(
-    name := "main/lloyd/twitter/lloyd",
+    name := "main/lloyd",
     libraryDependencies  ++= Seq(
      "org.twitter4j" % "twitter4j-core" % "4.0.4",
      "org.twitter4j" % "twitter4j-stream" % "4.0.4",
