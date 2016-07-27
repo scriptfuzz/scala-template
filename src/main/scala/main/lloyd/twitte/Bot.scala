@@ -1,4 +1,4 @@
-package lloyd.twitter
+package main.lloyd.twitte
 
 /**
   * Created by jdiaz on 7/25/16.
