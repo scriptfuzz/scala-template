@@ -1,4 +1,4 @@
-package main.lloyd.twitte
+package lloyd.twitter
 
 import twitter4j.TwitterFactory
 
